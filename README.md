@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ifelaye
 - 👀 I’m interested in python, data analysis and data science
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on data prject
+-
 - 📫 How to reach me 
 
 <!---
